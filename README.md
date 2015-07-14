@@ -1,9 +1,8 @@
-# TouchKey template
-***for Photoshop (R) and ClipStudio Paint aka. Manga Studio (R)***<br><br>
+# TouchKey template for Photoshop (R)
 
 **TouchKey** is one of few especially useful on-screen toolbars for Windows Tablet PCs. It makes using Windows tablets without keyboard much The software is developed by [**kannagi**](http://kannagi.net/touchkey/).
 
-This repository is a toolbar *template*, specifically designed for painting in Adobe (R) Photoshop (R) and ClipStudio Paint aka. Manga Studio (R). Icon design is kindly provided by [**Konartist3D**](http://forum.tabletpcreview.com/threads/artdock-for-the-samsung-series-7-slate.47958/) and [**dream3**](http://forum.tabletpcreview.com/threads/artdock-guide-compatibility-and-links.58400/page-6#post-413194) at TabletPC Review forum. 
+This repository is a toolbar *template*, specifically designed for painting in Adobe (R) Photoshop (R). Icon design is kindly provided by [**Konartist3D**](http://forum.tabletpcreview.com/threads/artdock-for-the-samsung-series-7-slate.47958/) and [**dream3**](http://forum.tabletpcreview.com/threads/artdock-guide-compatibility-and-links.58400/page-6#post-413194) at TabletPC Review forum. 
 ## Screenshot
 ![Screenshot](preview.png)
 
