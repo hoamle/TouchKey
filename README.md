@@ -3,7 +3,7 @@
 
 **TouchKey** is one of few especially useful on-screen toolbars for Windows Tablet PCs. It makes using Windows tablets without keyboard much The software is developed by [**kannagi**](http://kannagi.net/touchkey/).
 
-This repository is a toolbar *template*, specifically designed for painting in Adobe (R) Photoshop (R) and ClipStudio Paint aka. Manga Studio (R). Icon design is kindly provided by [**Konartist3D**](http://forum.tabletpcreview.com/threads/artdock-for-the-samsung-series-7-slate.47958/) and [**dream3**](http://forum.tabletpcreview.com/threads/artdock-guide-compatibility-and-links.58400/page-6#post-413194) at TabletPC Review forum. The template was created, ***assuming*** that modifier keys (Ctrl, Alt, Shift) reside on an external harware device, eg. keyboard, tablet buttons, gamepad etc. I have mine on a [Zeemote controller](http://i.imgur.com/Z8ivi4l)
+This repository is a toolbar *template*, specifically designed for painting in Adobe (R) Photoshop (R) and ClipStudio Paint aka. Manga Studio (R). Icon design is kindly provided by [**Konartist3D**](http://forum.tabletpcreview.com/threads/artdock-for-the-samsung-series-7-slate.47958/) and [**dream3**](http://forum.tabletpcreview.com/threads/artdock-guide-compatibility-and-links.58400/page-6#post-413194) at TabletPC Review forum. 
 ## Screenshot
 ![Screenshot](preview.png)
 
